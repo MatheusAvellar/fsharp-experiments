@@ -8,3 +8,16 @@ A simple algorithm to search through an ordered array, ranging from 10 to 100, f
 It uses both regular `for` iteration and binary search to find the position, and returns both findings (which are indeed the same).
 
 ![Screenshot](http://i.imgur.com/MVTyhec.png)
+
+
+==
+
+
+## tictactoe.fs
+A simple console implementation of a Tic Tac Toe game, developed in F#.
+
+Here are some screenshots:
+
+![Screenshot](http://i.imgur.com/zpR595D.png)
+
+![Screenshot](http://i.imgur.com/VT2fa7x.png)
