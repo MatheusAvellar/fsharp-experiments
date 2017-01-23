@@ -9,9 +9,14 @@ It uses both regular `for` iteration and binary search to find the position, and
 
 ![Screenshot](http://i.imgur.com/MVTyhec.png)
 
-
 ==
 
+## stillalive.fs
+A simple `Console.Beep()` version of the famous hit song "Still Alive" from the "Portal" game. I actually learned how to read music sheets in the process of making this, so that's a bonus.
+
+![Screenshot](http://i.imgur.com/KamhuNL.png)
+
+==
 
 ## tictactoe.fs
 A simple console implementation of a Tic Tac Toe game, developed in F#.
