@@ -2,6 +2,19 @@
 Some experimentation with the F# language -- Functional programming HYPE
 
 
+## resizepong.fs [coming soon]
+The actual project is on [another repository](https://github.com/MatheusAvellar/resize-pong), but I'll add the F# file once it's done.
+
+Basically, a game of Pong where the player controls the paddle only by resizing the window (trust me, it's _really_ hard to play).
+
+<p align="center">
+    <img src="https://i.imgur.com/8JGL2Jg.png"/>
+</p>
+
+(yes, I know this is the only Windows 7 screenshot and yes, it bugs me too. I'll change it eventually)
+
+---
+
 ## search.fs
 A simple algorithm to search through an ordered array, ranging from 10 to 100, for the number 51. It returns the position of that element on the array.
 
